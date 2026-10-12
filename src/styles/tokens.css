@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+  color: #1c2528;
+  background: #fbfaf7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+
+  --color-ink: #1c2528;
+  --color-muted: #687174;
+  --color-soft: #f1f0eb;
+  --color-paper: #fbfaf7;
+  --color-line: #dfdfd8;
+  --color-night: #11191a;
+  --color-night-soft: #1b2526;
+  --color-blue: #4968df;
+  --color-blue-dark: #3653c5;
+  --color-blue-pale: #dce5ff;
+  --color-error: #a83838;
+  --font-body: Inter, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --container: 1160px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 14px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
